@@ -29,7 +29,6 @@
    display: flex;
    flex-direction: column;
    justify-content: flex-end;
-
    box-sizing: border-box;
    max-width: 458px;
 }
@@ -40,10 +39,8 @@
    font-weight: 400;
    font-size: 36px;
    line-height: 40px;
-   
    box-sizing: border-box;
    padding-top: 104px;
-
    height: 176px;
 }
 
@@ -82,7 +79,6 @@ input::placeholder {
    display: flex;
    justify-content: center;
    align-items: center;
-
    box-sizing: border-box;
    background: #000000;
    border: 2px solid #000000;
